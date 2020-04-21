@@ -1,2 +1,7 @@
 123
+<<<<<<< HEAD
 first change
+=======
+test1
+test3
+>>>>>>> test3
